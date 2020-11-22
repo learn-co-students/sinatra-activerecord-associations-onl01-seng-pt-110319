@@ -4,6 +4,7 @@
 
 1. Understand primary and foreign key.
 2. Understand the has many/ belongs to relationship.
+3. DONE
 
 
 ### Introduction 
